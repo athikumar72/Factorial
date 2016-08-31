@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{196EC94E-9C46-4F91-8D5A-7CB374C752EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialCalculation", "FactorialCalculation\FactorialCalculation.csproj", "{AF9D64F9-E174-433A-BC6D-48E0A161692B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{A934301A-6A8C-4457-929B-E42CD6920B9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{196EC94E-9C46-4F91-8D5A-7CB374C752EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{196EC94E-9C46-4F91-8D5A-7CB374C752EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{196EC94E-9C46-4F91-8D5A-7CB374C752EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{196EC94E-9C46-4F91-8D5A-7CB374C752EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9D64F9-E174-433A-BC6D-48E0A161692B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9D64F9-E174-433A-BC6D-48E0A161692B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9D64F9-E174-433A-BC6D-48E0A161692B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9D64F9-E174-433A-BC6D-48E0A161692B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A934301A-6A8C-4457-929B-E42CD6920B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A934301A-6A8C-4457-929B-E42CD6920B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A934301A-6A8C-4457-929B-E42CD6920B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A934301A-6A8C-4457-929B-E42CD6920B9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
